@@ -1,0 +1,14 @@
+{
+
+    "entry": "SplashAct",
+    "activities": {
+
+        "SplashAct": {
+
+            "manifest": "assets/manifests/splash.json"
+
+        }
+
+    }
+
+}

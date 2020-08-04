@@ -1,0 +1,39 @@
+{
+    "assets": {
+        "toStart": [
+            {
+                "name": "wall",
+                "type": "image",
+                "path": "assets/wall.jpg"
+            },
+            {
+                "name": "container",
+                "type": "image",
+                "path": "assets/container.jpg"
+            },
+            {
+                "name": "piskel",
+                "type": "image",
+                "path": "assets/New Piskel.png"
+            },
+            {
+                "name": "Dusty",
+                "type": "image",
+                "path": "assets/RubberDucky.png"
+            }
+        ],
+        "additional": []
+    },
+
+    "objects": [
+        {
+            "layer": 0,
+            "objects": [
+                {
+
+                }
+
+            ]
+        }
+    ]
+}
